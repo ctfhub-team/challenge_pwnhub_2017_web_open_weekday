@@ -1,0 +1,10 @@
+version: "2"
+services:
+  web:
+    build: .
+    image: challenge_pwnhub_2017_open_weekday
+    ports:
+      - "8085:80"
+    restart: always
+    environment:
+      - FLAG=flag{test_flag}
