@@ -1,5 +1,7 @@
 # PWNHUB 公开赛 / 傻 fufu 的工作日
 
+Build with [ctfhub/base_web_nginx_php_56](https://hub.docker.com/r/ctfhub/base_web_nginx_php_56)
+
 ## 题目详情
 
 参赛时间：2017.09.19 20:00 - 2017.09.22 20:00
